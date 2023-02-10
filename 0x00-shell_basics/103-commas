@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Fma | sort -d
+ls -maF --file-type | sort -d
