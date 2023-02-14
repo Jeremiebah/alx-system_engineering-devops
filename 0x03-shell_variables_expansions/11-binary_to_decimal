@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.2d" $BINARY
+printf "%.2i" $BINARY
