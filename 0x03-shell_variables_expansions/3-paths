@@ -1,2 +1,2 @@
 #!/bin/bash
-count=$(echo $PATH | tr ':' '\n' | wc -l)
+ls -lR PATH | grep ^d | wc -l
