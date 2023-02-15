@@ -1,2 +1,2 @@
 #!/bin/bash
-function School | local BEST=School | echo $BEST
+local BEST=School
